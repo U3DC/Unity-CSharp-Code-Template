@@ -1,5 +1,4 @@
 # Unity-CSharp-Code-Template
-Unity CSharp Code Template
 Unity 代码模板，新建C#脚本时自动添加公司信息、文件名、作者、创建版本、Unity版本、创建日期、描述等信息。
 
 使用方法：
