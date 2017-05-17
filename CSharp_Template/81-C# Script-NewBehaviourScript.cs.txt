@@ -1,0 +1,31 @@
+﻿/*===============================================================
+ *Copyright(C) 2017 by    #COMPANY# All rights reserved. 
+ *FileName:               #SCRIPTFULLNAME# 
+ *Author:                 #AUTHOR# 
+ *Version:                #VERSION# 
+ *UnityVersion：          #UNITYVERSION# 
+ *Date:                   #DATE# 
+ *Description:    
+ *History: 
+================================================================*/
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour {
+
+	void Awake () {
+		#NOTRIM#
+	}
+	
+	
+	void Start () {
+		#NOTRIM#
+	}
+	
+	
+	void Update () {
+		#NOTRIM#
+	}
+}
