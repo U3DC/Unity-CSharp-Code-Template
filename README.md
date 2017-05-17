@@ -1,4 +1,15 @@
 # Unity-CSharp-Code-Template
+what is this?
+You can use this for template, when you create a new c# script in unity, it will make your scritp append your customize info such as company name,auther,version and so on.
+
+how can you use it?
+1.replace the file  [81-C# Script-NewBehaviourScript.cs.txt] under the directory :X:\Program Files\Unity5.6.1\Editor\Data\Resources\ScriptTemplates.
+2.Drag the Editor Dirctory into your project (/Assets)
+3.Create a new script,that's all.
+
+
+
+
 Unity 代码模板，新建C#脚本时自动添加公司信息、文件名、作者、创建版本、Unity版本、创建日期、描述等信息。
 
 使用方法：
